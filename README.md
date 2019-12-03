@@ -1,5 +1,6 @@
 # OpenFin FDC3
 
+(This fork exists to explore workarounds for this service's failure to work on macOS.)
 
 ## Overview
 
